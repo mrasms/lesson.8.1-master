@@ -1,0 +1,5 @@
+package kg.geektech.game.players;
+
+public enum Names {
+THOR,DOCTOR,INTERN, BERSERK, GOLEM, MAGE, WARRIOR, WITCHER, TRICKY_BASTARD, AVRORA, DRUID, HACKER, ANTMAN
+}

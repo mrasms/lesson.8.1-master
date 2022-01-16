@@ -1,0 +1,6 @@
+package kg.geektech.game.players;
+
+public enum SuperAbility {
+    HEAL, CRITICAL_DAMAGE, BOOST, SAVE_DAMAGE_AND_REVERT, STUN_THE_BOSS, BLOCK, RESURRECT, INVISIBLE, CALL, PICK_UP_AND_GIVE_AVAY,
+    PLAY_DEAD, RISE_AND_FALL
+}
